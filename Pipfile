@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 mahotas = "*"
 ipykernel = "*"
+lightgbm = "*"
 
 [dev-packages]
 
