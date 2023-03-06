@@ -14,6 +14,8 @@ seaborn = "*"
 mahotas = "*"
 ipykernel = "*"
 lightgbm = "*"
+xgboost = "==0.90"
+tensorflow = "*"
 
 [dev-packages]
 
